@@ -1,21 +1,58 @@
-MIT License
+EDUCATIONAL & NON-COMMERCIAL USE ONLY LICENSE
+(EĞİTİM VE AKADEMİK ARAŞTIRMA AMAÇLI KULLANIM LİSANSI)
 
-Copyright (c) 2026 Recep Tayyip Yanık, Samet Pulat, Furkan Kubat
+Telif Hakkı / Copyright (c) 2026 Recep Tayyip Yanık, Samet Pulat, Furkan Kubat.
+Tüm Hakları Saklıdır / All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+--------------------------------------------------------------------------------
+TÜRKÇE (LİSANS SÖZLEŞMESİ)
+--------------------------------------------------------------------------------
+Bu yazılım, derin öğrenme modelleri, kaynak kodları ve ilgili dokümantasyon 
+("Yazılım"), yalnızca EĞİTİM, ÖĞRENİM VE AKADEMİK ARAŞTIRMA amaçlarıyla 
+kullanılmak üzere sunulmuştur.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. İZİN VERİLEN KULLANIM (EĞİTİM & AKADEMİK):
+   - Bu yazılım; üniversite dersleri, akademik araştırmalar, öğrenci projeleri ve 
+     bireysel eğitim amaçlarıyla serbestçe incelenebilir, çalıştırılabilir ve 
+     öğrenme materyali olarak kullanılabilir.
+   - Bu projeden esinlenilen veya alıntılanan tüm akademik çalışmalarda 
+     geliştiricilerin (Recep Tayyip Yanık, Samet Pulat, Furkan Kubat) isimleri 
+     ve proje bağlantısı kaynak (atıf) olarak belirtilmelidir.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. YASAKLANAN KULLANIM (TİCARİ & KLİNİK):
+   - TİCARİ KULLANIM YASAĞI: Bu yazılımın, kaynak kodlarının veya eğitilmiş 
+     model ağırlıklarının doğrudan ya da dolaylı olarak HERHANGİ BİR TİCARİ 
+     FAALİYETTE KULLANILMASI, SATILMASI, KİRALANMASI VEYA TİCARİ BİR ÜRÜNÜN 
+     PARÇASI HALİNE GETİRİLMESİ KESİNLİKLE YASAKTIR.
+   - KLİNİK / TIBBİ TEŞHİS YASAĞI: Bu yazılım bir öğrenci projesi ve araştırma 
+     prototipidir. Onaylanmış bir tıbbi cihaz veya klinik tanı aracı DEĞİLDİR. 
+     Gerçek hastalar üzerinde medikal teşhis veya tedavi kararı vermek amacıyla 
+     KULLANILAMAZ.
+
+3. SORUMLULUK REDDİ:
+   Yazılım "OLDUĞU GİBİ" (AS-IS) esasıyla sunulmaktadır. Geliştiriciler hiçbir 
+   açık veya zımni garanti vermez ve bu yazılımın kullanımından doğabilecek 
+   hiçbir doğrudan veya dolaylı zarardan sorumlu tutulamaz.
+
+--------------------------------------------------------------------------------
+ENGLISH (LICENSE AGREEMENT)
+--------------------------------------------------------------------------------
+This software, source code, deep learning models, and documentation ("Software") 
+are provided strictly for EDUCATIONAL AND ACADEMIC RESEARCH PURPOSES ONLY.
+
+1. PERMITTED USE:
+   - You may view, run, and study the Software solely for non-commercial educational, 
+     academic, and personal learning purposes.
+   - Proper attribution to the original authors (Recep Tayyip Yanık, Samet Pulat, 
+     Furkan Kubat) must be maintained in any derivative academic work.
+
+2. RESTRICTIONS:
+   - NON-COMMERCIAL: Any commercial use, distribution, sublicensing, or sale of this 
+     Software or its derived weights is STRICTLY PROHIBITED.
+   - NOT FOR MEDICAL USE: This Software is an academic prototype and is NOT approved 
+     for clinical diagnosis, medical treatment, or patient care.
+
+3. DISCLAIMER:
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+   IMPLIED. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR 
+   OTHER LIABILITY.
