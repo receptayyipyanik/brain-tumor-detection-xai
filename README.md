@@ -98,8 +98,8 @@ Projede **ResNet18 + CBAM (Convolutional Block Attention Module)** tabanlı deri
 
 ### 1. Depoyu Klonlayın
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/RE सीताराम-ADINIZ.git
-cd REPO_ADINIZ
+git clone https://github.com/receptayyipyanik/brain-tumor-detection-xai.git
+cd brain-tumor-detection-xai
 ```
 
 ### 2. Python Ortamını Hazırlayın
