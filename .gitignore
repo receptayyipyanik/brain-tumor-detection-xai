@@ -1,0 +1,84 @@
+# ==========================================
+# Python & Sanal Ortam
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+.venv
+env/
+venv/
+ENV/
+
+# PyTorch Önbelleği
+**/torch_cache/
+.cache/
+
+# ==========================================
+# C# / .NET / Visual Studio
+# ==========================================
+.vs/
+**/[Bb]in/
+**/[Oo]bj/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.DotSettings.user
+*.ide
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+**/bin/Debug/
+**/bin/Release/
+**/obj/Debug/
+**/obj/Release/
+python_path.txt
+
+# ==========================================
+# Büyük Veri Setleri (GitHub Dosya Boyutu Sınırı)
+# ==========================================
+# Veri setleri GitHub'a yüklenmemeli, README'deki linkten indirilmelidir.
+archive*/
+archive (1)*/
+**/archive (1)/**
+*BRAIN_DATA*
+*.mat
+*.zip
+*.tar.gz
+*.7z
+
+# ==========================================
+# Geçici Analiz Çıktıları
+# ==========================================
+kod/results/current_heatmap.png
+
+# ==========================================
+# Model Ağırlıkları (İsteğe Bağlı)
+# ==========================================
+# GitHub'a >50MB model dosyaları yüklerken Git LFS veya GitHub Releases önerilir.
+# Modelleri GitHub'a yüklemek istemiyorsanız aşağıdaki satırların başındaki '#' işaretini kaldırın:
+# *.pth
+# *.onnx
+# *.pkl

@@ -1,0 +1,17 @@
+# Derin Öğrenme & Görüntü İşleme
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+pillow>=9.5.0
+
+# Makine Öğrenmesi & Veri Analizi
+scikit-learn>=1.2.0
+numpy>=1.24.0
+scipy>=1.10.0
+joblib>=1.3.0
+h5py>=3.8.0
+
+# Görselleştirme & İlerleme Çubuğu
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
